@@ -1,4 +1,4 @@
 # DynamicCellHeightAnimation
   Animation mimic this demo
   
-  <img src="demo1.gif" width="272" height="480" />
+  <img src="demo.gif" width="272" height="480" />
